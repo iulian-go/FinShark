@@ -1,0 +1,7 @@
+#loading-spinner{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    margin-top: 10px;
+}
